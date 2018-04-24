@@ -1,0 +1,54 @@
+
+/* Class = "UIButton"; normalTitle = "Tap to resume"; ObjectID = "3WA-eu-xfo"; */
+"3WA-eu-xfo.normalTitle" = "Toque para voltar";
+
+/* Class = "UILabel"; text = "Dificuldade"; ObjectID = "4oj-jC-1qr"; */
+"4oj-jC-1qr.text" = "Dificuldade";
+
+/* Class = "UIButton"; normalTitle = "Record"; ObjectID = "4xJ-MV-PUq"; */
+"4xJ-MV-PUq.normalTitle" = "Gravar";
+
+/* Class = "UIButton"; normalTitle = "Starts"; ObjectID = "6SW-oI-8Ld"; */
+"6SW-oI-8Ld.normalTitle" = "Começar";
+
+/* Class = "UIButton"; normalTitle = "Cancelar"; ObjectID = "8Rh-NC-Bhf"; */
+"8Rh-NC-Bhf.normalTitle" = "Cancelar";
+
+/* Class = "UIButton"; normalTitle = "Tap to resume"; ObjectID = "E1k-qR-Phj"; */
+"E1k-qR-Phj.normalTitle" = "Tap to resume";
+
+/* Class = "UIButton"; normalTitle = "Camera"; ObjectID = "EuA-L9-XKd"; */
+"EuA-L9-XKd.normalTitle" = "Camera";
+
+/* Class = "UILabel"; text = "Camera Unavailable"; ObjectID = "LQr-nQ-cSz"; */
+"LQr-nQ-cSz.text" = "Camera indisponível";
+
+/* Class = "UIButton"; normalTitle = "Salvar"; ObjectID = "SX4-V4-L7O"; */
+"SX4-V4-L7O.normalTitle" = "Salvar";
+
+/* Class = "UIButton"; normalTitle = "Descartar"; ObjectID = "cwj-v4-hOl"; */
+"cwj-v4-hOl.normalTitle" = "Descartar";
+
+/* Class = "UILabel"; text = "Tempo"; ObjectID = "eg8-46-j2l"; */
+"eg8-46-j2l.text" = "Tempo";
+
+/* Class = "UILabel"; text = "Titulo"; ObjectID = "jBK-Gs-C8Y"; */
+"jBK-Gs-C8Y.text" = "Titulo";
+
+/* Class = "UIButton"; normalTitle = "Camera"; ObjectID = "jKG-rg-TTs"; */
+"jKG-rg-TTs.normalTitle" = "Camera";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "m1b-i0-bM0"; */
+"m1b-i0-bM0.normalTitle" = "X";
+
+/* Class = "UIButton"; normalTitle = "Starts"; ObjectID = "qka-q1-wxw"; */
+"qka-q1-wxw.normalTitle" = "Começar";
+
+/* Class = "UIViewController"; title = "VideoPlayer"; ObjectID = "tm3-B3-O1p"; */
+"tm3-B3-O1p.title" = "VideoPlayer";
+
+/* Class = "UIButton"; normalTitle = "Record"; ObjectID = "vNs-o0-wVF"; */
+"vNs-o0-wVF.normalTitle" = "Gravar";
+
+/* Class = "UILabel"; text = "Camera Unavailable"; ObjectID = "xPv-Sd-xHM"; */
+"xPv-Sd-xHM.text" = "Camera Indisponível";

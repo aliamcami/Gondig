@@ -1,0 +1,69 @@
+/* 
+  Localizable.strings
+  app1131
+
+  Created by camila oliveira on 11/4/15.
+  Copyright © 2015 Giovani Ferreira Silvério da Silva. All rights reserved.
+*/
+gondig = "Gondig";
+start = "Começar";
+cancel = "Cancelar";
+language = "pt-br";
+
+//actions
+share = "Compartilhar";
+shareGondig = "Publicar no Gondig";
+save = "Salvar";
+saveRoll = "Exportar Rolo da Camera";
+
+//video length
+length = "Tempo";
+no_limit = "Sem limite de tempo";
+long = "Longo";
+medium = "Médio";
+short = "Curto";
+sec = "Sec";
+infinite_Story_Length = "You decide";
+
+//video level
+level = "Nível";
+light = "Lento";
+easy = "Médio";
+medium = "Rápiod";
+hard = "Extremo";
+error = "Erro...";
+
+//confirmations
+confirm_deletion_video = "Deletar?";
+confirm_videoSavedOn_CameraRoll = "O video foi salvo no rolo da camera";
+yes = "Sim";
+
+//cadastro
+username = "Username";
+email = "E-mail";
+pass = "Password";
+passConfim = "Confirm Password";
+register = "Register";
+newUser = "Novo Usuário";
+allNeed = "Todos os campos são obrigatórios";
+login = "Login";
+forgotPassword = "Forgot your Password?";
+
+
+
+//INSTRUCTIONS
+skip = "Pular";
+next = "Next";
+inst_start = "Bem vindo ao GONDIG!!! O objetivo aqui é se divertir com criatividade.";
+inst_swipeToNavigate = "Arraste o dedo para a direita ou para a esquerda para navegar pelo aplicativo";
+inst_record1 = "Você pode selecionar o tempo e a dificuldade de cada capítulo quando começar uma nova estória";
+inst_record2 = "O nível muda a velocidade com que as figuras aparecem na tela, quanto mais difícil mais rápido!";
+inst_recYouDecide = "Este modo não tem tempo limite, então, quanto clicar novamente no botão sua estória será salva.";
+inst_recTimedStory = "No modo de estórias com tempo, se você clicar no botão inical novamente a estória será cancelada, a estória só é salva quando o tempo acabar. ";
+inst_afterVideo1 = "Você pode colocar o titúlo que quiser (poderá mudar isto depois";
+inst_aftervideo2 = "Clique no botao de continuar ou arraste o dedo para a esquerda";
+inst_show1 = "Nesta sessão você poderá ver todos os vídeos que fez, esta parte funciona de forma offline e somente você tem acesso a ela";
+inst_login = "Gondig tem sua própria rede social, compartilhar vídos aqui permite que seus amigos adicionem mais capítulos a sua estória";
+inst_shelf = "Você pode ver as novas estórias dos seus amigos, ver, adicionar capítulos e ver outros capítulos produzidos por outras pessoas";
+
+

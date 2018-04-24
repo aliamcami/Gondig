@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  app1131
+
+  Created by camila oliveira on 11/4/15.
+  Copyright © 2015 Giovani Ferreira Silvério da Silva. All rights reserved.
+*/
+gondig = "Gondig";
+start = "Start";
+cancel = "Cancel";
+language = "en";
+
+//actions
+share = "Share";
+shareGondig = "Publish on Gondig";
+save = "Save";
+saveRoll = "Export to CameraRoll";
+
+//video length
+length = "Length";
+no_limit = "No time limit";
+long = "Long";
+medium = "Medium";
+short = "Short";
+sec = "Sec";
+infinite_Story_Length = "You decide";
+
+//video level
+level = "Level";
+light = "Slow";
+easy = "Medium";
+medium = "Fast";
+hard = "Extreme";
+error = "Error...";
+
+//confirmations
+confirm_deletion_video = "Delete?";
+confirm_videoSavedOn_CameraRoll = "Video was saved on camera roll";
+yes = "Yes";
+
+//cadastro
+username = "Username";
+email = "E-mail";
+pass = "Password";
+passConfim = "Confirm Password";
+register = "Register";
+newUser = "New User";
+allNeed = "All fields are needed";
+login = "Login";
+forgotPassword = "Forgot your Password?";
+
+
+
+//INSTRUCTIONS
+skip = "Skip";
+next = "Next";
+inst_start = "HI! The objective is to continue the story you will see and add the elements when they appear on screen";
+inst_swipeToNavigate = "Swipe left or right to navigate thru the app";
+inst_record1 = "You can select the length and level of each chapter when you start a story";
+inst_record2 = "The level changes how much time you have bofe other image apears, the harder it is the faster you have to create.";
+inst_recYouDecide = "This mode does not have a time limit, so, whenever you tap the button your story up to that point is going to be saved";
+inst_recTimedStory = "On the timed stories if you re-tap the start button before the time limit your story is going to be cancelled";
+inst_afterVideo1 = "You can choose any title you want (you will be able to change it later)";
+inst_aftervideo2 = "Tap forward button or wipe to the left to go back";
+a = "On this section you can see all the videos you have made, this section works offline, no one else has access to this. ";
+inst_login = "Gondig has its own social networks to allow you and your friends  to see witch others stories and add more chapters.";
+inst_shelf = "You can see the new stories of your friends, watch it, add more chapters and see the chapters that others have added to it.";
+
+
+
+
+
+
